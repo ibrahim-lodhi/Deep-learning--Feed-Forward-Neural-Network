@@ -28,8 +28,8 @@ A fully connected layer with 10 output neurons (one for each digit class).
 Softmax activation is likely used to output class probabilities.
 
 **3. Training**
-Loss Function:
 
+Loss Function:
 The loss function used is likely CrossEntropyLoss, which is standard for multi-class classification problems.
 Optimizer:
 
